@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * more_numbers - number fact
- * 
+ * more_numbers - nmbr fct
+ * khay fosu doc
  * Return: no return
  */
 
